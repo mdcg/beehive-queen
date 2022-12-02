@@ -1,5 +1,11 @@
 # beehive-queen
 
+### CLI Commands:
+
+```bash
+python -m beehive_queen.cli healthcheck
+```
+
 
 ### Referências
 
